@@ -1,0 +1,59 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+@import url(https://fonts.googleapis.com/css?family=Sorts+Mill+Goudy:400,400italic);
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400italic);
+
+html {
+    font-family: 'Helvetica Neue', sans-serif;
+}
+
+.brand-logo {
+    font-family: 'Playfair Display', 'georgia', serif;
+    font-weight: lighter;
+    font-size: 1.4rem !important;
+    text-decoration: none;
+}
+
+.top-message {
+    font-family: 'Playfair Display', 'georgia', serif;
+    font-style: italic;
+    font-size: 1.1em;
+}
+
+.subtitle {
+    margin-top: -15px;
+}
+
+.subtitle a {
+    font-size: 0.8em;
+    color: black;
+}
+
+body {
+    width: 100%;
+}
+
+.center-arts {
+    text-align: center;
+}
+
+.arts {
+    height: 240px;
+    width: auto;
+    margin: 10px;
+}
+
+a {
+    text-decoration: underline;
+}
+
+p {
+    font-family: 'helvetica', sans-serif;
+    line-height: normal;
+}
