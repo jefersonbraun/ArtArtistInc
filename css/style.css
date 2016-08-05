@@ -10,7 +10,13 @@
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display:400italic);
 
 html {
-    font-family: 'Helvetica Neue', sans-serif;
+
+}
+
+p {
+    font-family: 'Helvetica', sans-serif;
+    line-height: normal;
+    line-height: 1.6rem;
 }
 
 .brand-logo {
@@ -23,7 +29,7 @@ html {
 .top-message {
     font-family: 'Playfair Display', 'georgia', serif;
     font-style: italic;
-    font-size: 1.1em;
+    font-size: 1.2em;
 }
 
 .subtitle {
@@ -51,9 +57,4 @@ body {
 
 a {
     text-decoration: underline;
-}
-
-p {
-    font-family: 'helvetica', sans-serif;
-    line-height: normal;
 }
