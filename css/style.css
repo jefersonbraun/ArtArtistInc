@@ -30,6 +30,7 @@ p {
     font-family: 'Playfair Display', 'georgia', serif;
     font-style: italic;
     font-size: 1.2em;
+    text-shadow: 0px 0px 3px black;
 }
 
 .subtitle {
