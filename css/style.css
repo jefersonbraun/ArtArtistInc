@@ -30,15 +30,17 @@ p {
     font-family: 'Playfair Display', 'georgia', serif;
     font-style: italic;
     font-size: 1.2em;
-    text-shadow: 0px 0px 3px black;
+    /*text-shadow: 0px 0px 3px black;*/
 }
 
 .subtitle {
-    margin-top: -15px;
+    margin-top: -10px;
 }
 
-.subtitle a {
+.subtitle p {
     font-size: 0.8em;
+}
+.subtitle a {
     color: black;
 }
 
