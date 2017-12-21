@@ -33,6 +33,10 @@ p {
     /*text-shadow: 0px 0px 3px black;*/
 }
 
+.playfair {
+    font-family: 'playfair display', 'georgia', serif;
+}
+
 .subtitle {
     margin-top: -10px;
 }
